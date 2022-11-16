@@ -1,0 +1,84 @@
+body {
+    background-color: gainsboro;
+    font-family: sans-serif;
+  }  
+
+h1 {
+    position: absolute;
+    left: 40%;
+    font-size: 200%;
+    color: rgb(89, 56, 15);
+  }
+div.logo {
+  position: absolute;
+  left: 1%;
+  top: 1%;
+}
+
+div.book1 {
+    text-align: center;
+    position: absolute;
+    top: 12%;
+    left: 0%;
+    width: 20%;
+    height: 8%;
+    background-color: grey;
+  }
+div.book2 {
+    text-align: center;
+    position: absolute;
+    top: 12%;
+    left: 20%;
+    width: 20%;
+    height: 8%;
+    background-color: beige;
+  }
+div.book3 {
+    text-align: center;
+    position: absolute;
+    top: 12%;
+    left: 40%;
+    width: 20%;
+    height: 8%;
+    background-color: grey;
+  }
+  div.book4 {
+    text-align: center;
+    position: absolute;
+    top: 12%;
+    left: 60%;
+    width: 20%;
+    height: 8%;
+    background-color: beige;
+  }
+  div.book5 {
+    text-align: center;
+    position: absolute;
+    top: 12%;
+    left: 80%;
+    width: 20%;
+    height: 8%;
+    background-color: grey;
+  }
+  div.text{
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    width: 80%;
+    height: 75%;
+    background-color: whitesmoke;
+  }
+  div.chapters{
+    position: absolute;
+    top: 20%;
+    right: 0px;
+    width: 15%;
+    height:80%;
+    text-align: center;
+    background-color: olivedrab;
+    color: white;
+    
+  }
+p {
+    font-size: 20px;
+  }
